@@ -1,0 +1,260 @@
+body{
+
+  background-color: #D6ECF7;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montez', cursive;
+  }
+
+.bz{
+  text-align: center;
+  position: relative;
+  left: 370px;
+
+}
+
+.mountain{
+  height: 200px;
+    width: 700px;
+    position: relative;
+    left: 520px;
+    top: -50px;
+}
+
+
+.welcome{
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  position: relative;
+  left: 370px;
+
+}
+
+.middle{
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+
+.bz1
+{
+  text-align: center;
+  position: relative;
+  left: 370px;
+  display: inline-block;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+
+}
+.hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 4px;
+    width: 9%;
+}
+
+.cloud1{
+height: 30px;
+width: 100px;
+position: absolute;
+right: 56px;
+}
+img{
+  border-radius: 30%;
+  position: relative;
+  top: 10px;
+  height: 200px;
+  margin-top: 30px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 250px;
+height: 100px;
+}
+.cloud3{
+  width: 200px;
+  height: 50px;
+  top: 30px;
+}
+
+.cloud4{
+  position: relative;
+  bottom: 20px;
+}
+
+.div1{
+  background-color: #D6ECF7;
+  width: 200px;
+  height: 200px;
+
+}
+
+.touch{
+  text-align: start;
+}
+
+
+}
+
+.div2{
+  background-color: #d6efc7;
+  height: 200px;
+  width: 200px;
+}
+.div3{
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  background-color: #d6efc7;
+
+}
+.h2{
+  font-size: 50px;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+  font-family: 'Redressed', cursive;
+}
+
+.wd{
+  margin-top: 32px;
+  margin-right: 500px;
+
+}
+
+.para{
+  font-size: 20px;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+  font-family: 'Redressed', cursive;
+  padding-bottom: 10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 40px auto 100px auto;
+  text-align: center;
+}
+.pr{
+  margin-top: 32px;
+  margin-right: 390px;
+}
+
+.pic{
+    width: 25%;
+    height: 5%;
+    float: right;
+    position: relative;
+    margin: 200px auto 200px auto;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+.imgcode{
+  width: 200px;
+  height: 5%;
+  border-radius: 30%;
+  float: left;
+  position: relative;
+  left: 300px;
+  margin-right: 30px;
+
+
+}
+.wdev{
+  width: 10%;
+  height: 5%;
+  border-radius: 25px;
+  /*margin-right: 15em;*/
+  float: left;
+  margin-left: 500px;
+  margin-right: 30px;
+}
+.middle{
+  background-color: white;
+  margin: 100px 0;
+}
+.image{
+  margin-bottom: 100px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, 1199E);
+  background-image: -moz-linear-gradient(top, #11CDD4, 1199E);
+  background-image: -ms-linear-gradient(top, #11CDD4, 1199E);
+  background-image: -o-linear-gradient(top, #11CDD4, 1199E);
+  background-image: linear-gradient(to bottom, #11CDD4, 1199E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: fantasy;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 100px;
+    width: 40%;
+    position: relative;
+    bottom: -50px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  height: 100px;
+  padding: 50px 0 20px;
+}
+.footer-link{
+  color: #11999E;
+  font-family: 'Redressed' , sans-serif;
+  margin: 10px 20px;
+}
+
+footer-link:hover{
+  color: #EAF6F6
+}
+
+}
+.html1{
+  background-color: white;
+}
+
+
+.photo{
+  margin-bottom: 50px;
+  /*margin-left: 150px;*/
+  margin-top: 10px;
+}
+.credits{
+  margin-top: 30px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+
+}
+.footer-link{
+  margin-top: 30px;
+  text-decoration: none;
+}
+
+.donate{
+  margin-right: 500px;
+}
+.contact-me1{
+  position: relative;
+  margin-right: 450px;
+}
+
+.contactb{
+  text-align: start
+}
